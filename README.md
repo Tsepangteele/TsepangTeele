@@ -23,3 +23,5 @@ I adore the creative side of tech — blending logic, design, and problem-solvin
 > "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
 
 Let’s create something beautiful together 💫  
+
+📧 Email: [tsepangteele@gmail.com](mailto:tsepangteele@gmail.com)

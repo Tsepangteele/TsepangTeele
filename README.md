@@ -23,3 +23,4 @@ I adore the creative side of tech — blending logic, design, and problem-solvin
 Let’s create something beautiful together 💫  
 
 📧 Email: [tsepangteele@gmail.com](mailto:tsepangteele@gmail.com)
+LinkedIn: Tsepang Teele 

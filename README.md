@@ -20,8 +20,6 @@ Hey there! I'm **Tsepang**, a curious and passionate creative currently explorin
 ### 💖 Why I Love Coding:
 I adore the creative side of tech — blending logic, design, and problem-solving to bring beautiful ideas to life. My dream is to become a **UX/UI Developer**, building experiences that are both functional *and* stunning to look at.
 
-> "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
-
 Let’s create something beautiful together 💫  
 
 📧 Email: [tsepangteele@gmail.com](mailto:tsepangteele@gmail.com)

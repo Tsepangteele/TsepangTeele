@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🌸 Tsepang Teele | Creative Tech Babe on a Code Journey 💻✨
 
-<!--
-**Tsepangteele/TsepangTeele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm **Tsepang**, a curious and passionate creative currently exploring the magical world of **software development**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I’ve Learned So Far:
+- 🧱 **HTML5** – Structuring the web, one tag at a time  
+- 🎨 **CSS3** – Styling with intention and ✨aesthetic✨  
+- 🌬️ **Tailwind CSS** – Crafting responsive layouts effortlessly
+
+---
+
+### ✨ What’s Next:
+- 🚀 **JavaScript** – Soon diving into interactivity and dynamic magic  
+- 🧑🏽‍💻 I'm super excited to start **building websites** from scratch — and maybe even **apps** in the future!
+
+---
+
+### 💖 Why I Love Coding:
+I adore the creative side of tech — blending logic, design, and problem-solving to bring beautiful ideas to life. My dream is to become a **UX/UI Developer**, building experiences that are both functional *and* stunning to look at.
+
+> "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
+
+Let’s create something beautiful together 💫  
